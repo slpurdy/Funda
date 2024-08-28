@@ -1,0 +1,14 @@
+C:\Users\rjohn\OneDrive\Documents\GitHub\DeployApp\Funda\algo\bin\Debug\net8.0\algo.exe
+C:\Users\rjohn\OneDrive\Documents\GitHub\DeployApp\Funda\algo\bin\Debug\net8.0\algo.deps.json
+C:\Users\rjohn\OneDrive\Documents\GitHub\DeployApp\Funda\algo\bin\Debug\net8.0\algo.runtimeconfig.json
+C:\Users\rjohn\OneDrive\Documents\GitHub\DeployApp\Funda\algo\bin\Debug\net8.0\algo.dll
+C:\Users\rjohn\OneDrive\Documents\GitHub\DeployApp\Funda\algo\bin\Debug\net8.0\algo.pdb
+C:\Users\rjohn\OneDrive\Documents\GitHub\DeployApp\Funda\algo\obj\Debug\net8.0\algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjohn\OneDrive\Documents\GitHub\DeployApp\Funda\algo\obj\Debug\net8.0\algo.AssemblyInfoInputs.cache
+C:\Users\rjohn\OneDrive\Documents\GitHub\DeployApp\Funda\algo\obj\Debug\net8.0\algo.AssemblyInfo.cs
+C:\Users\rjohn\OneDrive\Documents\GitHub\DeployApp\Funda\algo\obj\Debug\net8.0\algo.csproj.CoreCompileInputs.cache
+C:\Users\rjohn\OneDrive\Documents\GitHub\DeployApp\Funda\algo\obj\Debug\net8.0\algo.dll
+C:\Users\rjohn\OneDrive\Documents\GitHub\DeployApp\Funda\algo\obj\Debug\net8.0\refint\algo.dll
+C:\Users\rjohn\OneDrive\Documents\GitHub\DeployApp\Funda\algo\obj\Debug\net8.0\algo.pdb
+C:\Users\rjohn\OneDrive\Documents\GitHub\DeployApp\Funda\algo\obj\Debug\net8.0\algo.genruntimeconfig.cache
+C:\Users\rjohn\OneDrive\Documents\GitHub\DeployApp\Funda\algo\obj\Debug\net8.0\ref\algo.dll
